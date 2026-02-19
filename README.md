@@ -1,4 +1,4 @@
-# Intro_to_data_science_and_ml
+# Introduction to Data Science and Machine Learning
 * A range of notebooks to support an introduction to data science and machine learning workshop. 
 * Additional files that we download / generate are also stored here to support live sessions.
 * The notebooks include an `Open in Colab` button you can use to open the notebook in a Google Colab. This will require a google account.
