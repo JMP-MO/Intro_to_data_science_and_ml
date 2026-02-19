@@ -5,7 +5,7 @@
 * Alternitiveily a `requirements.txt` file has been included with the packages and versions required to replicate the environment.
 
 ### Notebook structure:
-1. **Intro to Data Science and Machine Learning and exploring tabular data.** This notebook explains some basic Data Science and Machine Learning context. We go on to learn how to get and explore tabular data. 
+1. **Exploring tabular data.** This notebook explains some basic Data Science and Machine Learning context. We go on to learn how to get and explore tabular data. 
 2. **Working with tabular data.** This notebook demonstrates how to preprocess data ready for machine learning. 
 3. **Intro to machine learning - regression.** This notebook demonstrates how to use our preprocessed data to train a machine learning model. 
 4. **Machine learning competition** - Vision Model MNIST!
